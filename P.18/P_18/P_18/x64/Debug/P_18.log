@@ -1,0 +1,6 @@
+﻿  P_18.c
+c:\users\user\desktop\hw_1027\p.18\sourse\p_18.c(11): warning C4047: '函式': 'rsize_t' 與 'char [60]' 間接取值的層級不同
+c:\users\user\desktop\hw_1027\p.18\sourse\p_18.c(11): warning C4024: 'strcpy_s': 型式和實質參數 2 不同的類型
+c:\users\user\desktop\hw_1027\p.18\sourse\p_18.c(11): error C2198: 'strcpy_s': 呼叫的引數太少
+c:\users\user\desktop\hw_1027\p.18\sourse\p_18.c(14): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+c:\users\user\desktop\hw_1027\p.18\sourse\p_18.c(18): warning C4098: 'main': 'void' 函式正在傳回值
